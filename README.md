@@ -41,8 +41,26 @@ or in developer mode:
 pip install -e .
 ```
 
-
-
 **Disclaimer:** All experiments have been carried on a Intel(R) Xeon(R) CPU @ 2.10GHz equipped with a single NVIDIA GEForce RTX 3090 GPU. Different environment 
 configurations may be required for different combinations of workstation and GPU.
 
+
+Brandolin, F., Ravasi, M., & Alkhalifah, T. (2024). Pinnslope: Seismic data interpolation and local slope estimation with physics informed neural networks. GEOPHYSICS , 89 (4), V331-V345. [DOI: 10.1190/geo2023-0323.1](https://doi.org/10.1190/388
+geo2023-0323.1)
+
+Please use the following BibTeX entry to cite this work:
+
+```bibtex
+@article{doi:10.1190/geo2023-0323.1,
+author = {Francesco Brandolin and Matteo Ravasi and Tariq Alkhalifah},
+title = {PINNslope: Seismic data interpolation and local slope estimation with physics informed neural networks},
+journal = {GEOPHYSICS},
+volume = {89},
+number = {4},
+pages = {V331-V345},
+year = {2024},
+doi = {10.1190/geo2023-0323.1},
+URL = { https://doi.org/10.1190/geo2023-0323.1},
+eprint = {https://doi.org/10.1190/geo2023-0323.1},
+
+}
