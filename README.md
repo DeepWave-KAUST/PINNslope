@@ -45,7 +45,7 @@ pip install -e .
 configurations may be required for different combinations of workstation and GPU.
 
 
-Brandolin, F., Ravasi, M., & Alkhalifah, T. (2024). Pinnslope: Seismic data interpolation and local slope estimation with physics informed neural networks. GEOPHYSICS , 89 (4), V331-V345. [DOI: 10.1190/geo2023-0323.1](https://doi.org/10.1190/388geo2023-0323.1)
+Brandolin, F., Ravasi, M., & Alkhalifah, T. (2024). Pinnslope: Seismic data interpolation and local slope estimation with physics informed neural networks. GEOPHYSICS , 89 (4), V331-V345. [DOI: 10.1190/geo2023-0323.1](https://doi.org/10.1190/geo2023-0323.1)
 
 Please use the following BibTeX entry to cite this work:
 
